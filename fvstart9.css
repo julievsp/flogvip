@@ -1,14 +1,14 @@
-body {body-align: right; width: 825px;   margin: auto;}
-html  	{background: #f6f6ee; border: 0px solid #e5ddd8;}
-p, a, body, td, tr, div {color: #efeae7;}
-body {background: url() #efeae7; 
+body {body-align: center; width: 825px;   margin: auto;}
+html  	{background: #f6f6ee; border: 0px solid #015627;}
+p, a, body, td, tr, div {color: #f6f6ee}
+body {background: url() #f6f6ee; 
  }
    
 p, a, body, td, tr, div {
 font-style: normal;
 font-weight: normal;
 font-size: 11px;
-color: #86c4a2;
+color: #015627;
 font-family: verdana;
 }
 
@@ -16,7 +16,7 @@ font-family: verdana;
 a, a:link{color: #5c5e2f; cursor: w-resize;
 TEXT-DECORATION: none; font-weight: ;}
 
-a:hover {color: #86c4a2; cursor: w-resize;
+a:hover {color: #015627; cursor: w-resize;
 TEXT-DECORATION: none; font-weight: ; cursor: Pointer;
 background-color: #;
 border-bottom: 0px dashed #f1e3d2;
@@ -31,7 +31,7 @@ input, textarea, select
 	{font-family: Verdana; 
 	font-size: 11px;
 	cursor: size;
-	color: #86c4a2;
+	color: #015627;
         border-bottom: 0px solid #c9c9c9;
         border-top: 0px solid #c9c9c9;
         border-right: 0px solid #c9c9c9;
@@ -49,14 +49,14 @@ background: #;}
 
 ::selection
 {color: #;
-background: #efeae7;}
+background: #f6f6ee;}
 
 /* ------------ BARRA-------------- */
 
 #barra {
 height: 100px;
 font-size: 10px; 
-color:#f9e1ef;
+color:#015627;
 background: #f6f6ee;
 }
 
@@ -73,16 +73,16 @@ width: 100px;
 height: 10px;
 font-family: Droid Serif;
 font-size: 10px; 
-color:#333333;
+color:#015627;
 text-decoration: bold;
 text-transform: Uppercase; 
 -moz-border-radius: 0px 0px 0px 0px;
-background-color: #efeae7;
-border: 1px dotted #453a3a;
+background-color: #f6f6ee;
+border: 0px dotted #453a3a;
 }
 
 #barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active  {
-color: #d3c3b9;
+color: #015627;
 font-family: Droid Serif;
 font-size: 10px;
 line-height: 45px;
@@ -93,11 +93,11 @@ height: 70px;
 text-decoration: none; 
 -moz-border-radius: 0px 0px 0px 0px;
 background-color: #f6f6ee;
-transition: all 0.5s ease-out;
+transition: all 1.0s ease-out;
 }
 
 #barra .fvbarra a:hover {
-color: #d3c3b9;
+color: #015627;
 cursor: Pointer;
 font-family: Droid Serif;
 font-size: 10px;
@@ -117,14 +117,14 @@ font: bold 10px Droid Serif;
 text-decoration: bold; 
 text-transform: Uppercase;
 height: 70px;
-color: #e5ddd8; 
+color: #015627; 
 }
 
 #barra .barraimg {
 opacity:.0;}
  
         
-#footer {color: #7c6c63;
+#footer {color: #015627;
 font: 11px verdana; 
 background: #dbcfc8;
 border-top: 0px dashed #91b3af;
