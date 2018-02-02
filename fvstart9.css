@@ -8,12 +8,12 @@ p, a, body, td, tr, div {
 font-style: normal;
 font-weight: normal;
 font-size: 11px;
-color: #7c6c63;
+color: #86c4a2;
 font-family: verdana;
 }
 
 
-a, a:link{color: #7c7c7d; cursor: w-resize;
+a, a:link{color: #5c5e2f; cursor: w-resize;
 TEXT-DECORATION: none; font-weight: ;}
 
 a:hover {color: #86c4a2; cursor: w-resize;
@@ -104,7 +104,7 @@ font-size: 10px;
 line-height: 45px;
 height: 70px;
 margin-top: 5px;
-text-align:left;
+text-align:center;
 padding: 11px;
 text-transform: uppercase;
 text-decoration: ; 
@@ -211,12 +211,12 @@ color: #7c6c63;
 font-size : 7pt;
 padding: 5px 4px 3px 4px;
 text-transform: uppercase;
-background-color: #efeae7;
+background-color: #f6f6ee;
 -moz-border-radius: 1px;
-border-top: 4px solid #e1d6cf;
-border-left: 1px solid #e1d6cf;
-border-right: 1px solid #e1d6cf;
-border-bottom: 4px solid #e1d6cf;}
+border-top: 0px solid #e1d6cf;
+border-left: 0px solid #e1d6cf;
+border-right: 0px solid #e1d6cf;
+border-bottom: 0px solid #e1d6cf;}
 
 #footlink a:hover {
 color: #7c7c7d;
