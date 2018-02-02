@@ -1,0 +1,227 @@
+/*-- body --*/
+body {
+	background-color: #DFD9D1;
+		margin: 0px;
+	padding:0;
+}
+
+/* -- Fonte -- */
+p, a, body, td, tr, div {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: #A0907B;
+	font-family: Tahoma;
+	line-height: 12px;
+	cursor: crosshair;
+	
+}
+
+
+/* -- Titulo  -- */
+.subtitulo {
+        color: #A0907B;
+        font-size: 11px;
+        line-height: 11px;
+        background-color: #E6E1DB;
+	border-bottom: 1px solid #E6E1DB;
+	border-right: 1px solid #E6E1DB;
+	border-top: 1px solid #E6E1DB;
+	border-left: 1px solid #E6E1DB;
+        padding: 2px 2px 2px 2px;
+        -moz-border-radius: 0px 0px 0px 0px;
+        width: 80px;
+}
+
+/* -- Links -- */
+
+a, a:link{
+color: #EE5F5F;
+cursor: crosshair;
+TEXT-DECORATION: none;
+}
+
+a:hover {
+color: #E93232;  
+border-dotten: 1px dotted #C8BEB0;  
+background-color: #E6E1DB;
+cursor: crosshair;
+TEXT-DECORATION: none;
+}
+
+
+/* ----------- Estilos ---------- */
+
+i {	color: #A0907B; TEXT-DECORATION: none;
+}
+b {	color: #A0907B; TEXT-DECORATION: none;
+}
+u {	color: #EE5F5F; TEXT-DECORATION: none;
+}
+
+/* ----------- tables ----------- */
+
+.table {background: #DFD9D1;
+	width: 280px;
+	font-family: Tahoma;
+	font-size: 12px;
+	letter-spacing: 0px;
+	line-height: 12pt;
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+        margin-bottom: 2px;
+	-moz-border-radius: 0px;
+}
+
+
+
+.fundopost {
+	-moz-border-radius: 3px 3px 3px 3px;
+	background-color: #E6E1DB;
+	padding: 3px 3px 3px 3px;
+	text-align: justify;
+	width: 280px;
+	}
+
+/* -- Caixas -- */
+input, textarea, select 
+	{font-family: Tahoma; 
+	padding: 0px 0px 0px 0px; 
+	font-size: 12px;
+	color: #EE5F5F;
+	background: #DFD9D1;
+	border-top: 1px solid #DFD9D1;
+	border-left: 1px solid #DFD9D1;
+	border-right: 1px solid #DFD9D1;
+	border-bottom: 1px solid #DFD9D1;
+	-moz-border-radius: 0px 0px 0px 0px;
+
+        }
+
+
+input, textarea:hover {
+	color: #A0907B;
+	font-family: tahoma;  	
+	 font-weight: none;
+        font-size: 12px;
+	border-top: 1px solid #DFD9D1;
+        border-bottom: 1px solid #DFD9D1;
+        border-left: 1px solid #DFD9D1;
+        border-right: 1px solid #DFD9D1;
+        background-color: #DFD9D18;
+-moz-border-radius: 1px 0px 0px 0px;  align: left;}
+
+
+.comentarios {
+	font-family: tahoma; 
+	font-size: 12px; 
+	padding: 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	background-color: #E6E1DB;
+	border-top: 1px solid #E6E1DB;
+	border-left: 1px solid #E6E1DB;
+	border-right: 1px solid #E6E1DB;
+	border-bottom: 1px solid #E6E1DB;
+	width: 340px;
+	}
+
+
+
+
+/* -- img -- */
+
+a img {
+filter:alpha(opacity=50);
+-moz-opacity:0.90;
+opacity:0.90;
+}
+
+a:hover img {
+filter:alpha(opacity=200);
+-moz-opacity:1.25;
+opacity:1.25;
+}
+
+
+/* -- Seleleção Colorida -- */
+
+::-moz-selection{
+background:#F4EFEF;
+color: #;
+}
+background:#F4EFEF;
+color: #;
+}
+
+
+/*---barra---*/
+
+#barra {
+	color: #A0907B;
+text-shadow: 0px 1px 0px #E2DED8;
+background: #E6E1DB;
+height: 38px;
+}
+
+#barra .tubo {
+text-align:center;	
+color: #B6AA9A;
+text-shadow: 0px 1px 0px #E2DED8;
+background: #E6E1DB;
+height: 13px;
+border-top: 4px solid #F4EFEF;
+margin: 0 auto; padding:10;
+width: 100%;}
+
+#barra .fvbarraf {
+width: 100px;
+height: 17px;
+	color: #B6AA9A;
+text-shadow: 0px 1px 0px #E2DED8;
+-moz-border-radius: 0px;
+cursor: crosshair;
+background-color: #E6E1DB;
+-moz-border-radius: 6px 6px 6px 6px;
+
+}
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active  {
+	color: #776855;
+text-shadow: 0px 1px 0px #E2DED8;
+font-family: Tahoma;
+font-size: 11px;
+line-height: 16px;
+text-align:center;
+padding: 5px 5px 5px 5px;
+text-transform:uppercase;
+text-decoration: none; 
+-moz-border-radius: 6px 6px 6px 6px;
+cursor: crosshair;
+}
+
+#barra .fvbarra a:hover {
+	color: #EE5F5F;
+text-shadow: 0px 1px 0px #E2DED8;
+background: #DFD9D1;
+font-family: Tahoma;
+font-size: 11px;
+line-height: 15px;
+text-align:left;
+padding: 5px 5px 5px 5px;
+text-transform:uppercase;
+text-decoration: none; 
+-moz-border-radius: 0px 0px 0px 0px;
+cursor: crosshair;
+}
+#barra .fvbarra {
+font: bold 12px;
+font-family: Tahoma;
+	color: #F4EFEF;
+text-shadow: 0px 1px 0px #E2DED8;
+cursor: crosshair;
+}
+
+#barra .barraimg {
+opacity:.0;}
+
+}
