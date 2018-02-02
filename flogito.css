@@ -1,0 +1,213 @@
+/* --- Fonte ---*/
+
+P, body, td, tr, div {
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+color: #B5AED2;
+font-family: Verdana;
+line-height: 13px;}
+
+
+/* --- Links ---*/
+
+a, a:link{
+	color: #914465;
+	font-family: Verdana;
+	cursor: w-resize;
+	background-color: #none;
+	TEXT-DECORATION: none;}
+
+a:hover {
+	color: #B0577D;
+	font-family: Verdana;
+	cursor: w-resize;
+	background-color: #F2EFFA;
+	TEXT-DECORATION: none;}
+
+
+
+
+/* ----------- Estilos ---------- */
+
+i {	color: #B5AED2; TEXT-DECORATION: none;
+}
+b {	color: #B5AED2; TEXT-DECORATION: none;
+}
+u {	color: #914465; TEXT-DECORATION: none;
+}
+z {	color: #B5AED2; TEXT-DECORATION: none;
+}
+y {	color: #c0c0c0; background: #E7E0F5; width: 165px; line-height: 15px; letter-spacing: 1px; font-family: Georgia;
+}
+strong { color: #B0577D; background: #E7E0F5; width: 165px; line-height: 15px; letter-spacing: 1px;
+}
+
+
+/* --- Titulo ---*/
+
+.titulo {color: #914465;
+font-family: Georgia;
+font-weight: normal;
+font-style: italic;
+font-size: 20px;
+}
+
+.subtitulo {
+	color: #B5AED2;
+	font-size: 11px;
+	line-height: 11px;
+	background-color: #EAE7F1;
+	border-bottom: 1px solid #EAE7F1;
+	border-right: 1px solid #EAE7F1;
+	border-top: 1px solid #EAE7F1;
+	border-left: 1px solid #EAE7F1;
+	padding: 2px 2px 2px 2px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	width: 90px;
+}
+
+
+/* -- Seleleção Colorida -- */
+
+::-moz-selection{
+background:#ffffff;
+color: #c0c0c0;
+}
+background:#FFFFFF;
+color: #c0c0c0;
+}
+
+
+.table {
+	text-align: center;
+	width: 300px;
+	padding: 2px;
+	color: #B5AED2;
+	background-color: #F2EFFA;
+	-moz-border-radius: 0px;
+	border-bottom: 1px solid #BCACE6;}
+
+
+
+
+.linha
+	{color: #A3CDBD;
+	width: 400px;
+background-image : url('http://universomusica.orgfree.com/images/fundoum.png');
+	padding: 2px;}
+
+.table1 {
+	text-align: center;
+	width: 400px;
+	padding: 2px;
+        -moz-border-radius: 0px 0px 0px 0px;
+        color: #;
+	border-right: 5px solid #B5AED2;
+	border-left: 5px solid #B5AED2;
+	background-color: #EAE7F1;
+	-moz-border-radius: 0px;}
+
+
+/* --- caixas ---*/
+
+input, textarea, select {
+	color: #c0c0c0;
+	border: 1px dashed #914465;
+	background: #EAE7F1;
+	font-size: 11px;
+	font-family: verdana;
+	line-height: 11px;
+	padding: 1px;}
+
+.comentarios {
+color: #none;
+width: 400px;}
+
+
+/* -- img -- */
+
+a img {
+filter:alpha(opacity=50);
+-moz-opacity:0.90;
+opacity:0.90;
+border: 5px solid #F2EFFA;
+}
+
+a:hover img {
+filter:alpha(opacity=100);
+-moz-opacity:1.25;
+opacity:1.25;
+border: 5px solid #F2EFFA;
+}
+
+
+/*- Barra-*/
+
+#barra {
+margin: 0; padding:0;
+width: 100%; height: 45px;
+background: #EAE7F1;
+text-align: center;
+}
+
+
+#barra .tubo {
+background: #EAE7F1;
+margin: 0 auto; padding:0;
+width: 100%;
+}
+
+#barra .fvbarraf {
+width: 100px;
+height: 17px;
+background: #EAE7F1;
+font: normal 11px Verdana; color: #B5AED2; 
+border: 1px solid #B5AED2;
+-moz-border-radius: 0px;
+}
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active  {
+color: #914465;
+font-family: verdana;
+font-size: 11px;
+line-height: 15px;
+text-align:center;
+padding: 8px 2px 8px 2px;
+text-decoration: none; 
+background-image : url('http://universomusica.orgfree.com/images/fundoum.png');
+-moz-border-radius: 0px 0px 0px 0px;}
+
+#barra .fvbarra a:hover {
+color: #B0577D;
+font-family: verdana;
+font-size: 11px;
+line-height: 15px;
+text-align:left;
+padding: 8px 2px 8px 2px;
+text-decoration: none; 
+background-image : url('http://universomusica.orgfree.com/images/fundoum.png');
+-moz-border-radius: 0px 0px 0px 0px;}
+
+#barra .fvbarra {
+font: normal 11px Verdana;
+color: #B5AED2; 
+}
+
+#barra .barraimg {
+opacity:.0;}
+
+
+
+/*------------------ Footer ------------------*/
+
+#footer {
+height: 14px;
+color: #B5AED2;
+font-family: Verdana;
+font-size: 11px;
+background-image : url('http://universomusica.orgfree.com/images/fundoum.png');
+border-top: 1px solid #B5AED2;
+padding:2px;
+}
+
