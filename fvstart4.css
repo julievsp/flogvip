@@ -1,0 +1,287 @@
+/*..........REF. IMAGEM DO FUNDO DO POST - LATERAIS ...........*/
+
+
+html {
+background: #faebd7 url("http://img848.imageshack.us/img848/9045/fundobc.jpg");
+border-top: 0px solid #faebd7
+margin-top: 0px;
+cursor: hand;}
+
+
+
+/* .......... REF IMAGEM DO FUNDO - CENTRAL ........... */
+
+body {
+margin: auto;
+width:1020px;
+body-align: center;
+background: url("http://img210.imageshack.us/img210/3508/catstky.jpg");
+border-left: 0px solid ;
+border-right: 0px solid ;}
+
+
+/* ............. REF A FONTE DO FLOG ................*/
+
+p, a, body, td, tr, div {
+font-weight: normal;
+font-style: tahoma;
+font-family: tahoma;
+font-size: 12px;
+font-color:  #fa8072 ;
+line-height: 13px;}
+
+
+/* ....... REF AOS LINKS - IMAGENS E BORDAS ....... */
+
+a, a:link, a:visited, a:active{
+color:#E5A4AE;
+font: 12px tahoma;
+letter-spacing: 0px;
+-webkit-transition-duration: 0.9s;
+text-transform: none uppercase;
+TEXT-DECORATION: none;
+cursor: hand;}
+
+a:hover {
+color:    #faebd7;   
+background: url("http://img210.imageshack.us/img210/3508/catstky.jpg") no-repeat   ;
+border-bottom: 0px dashed none;
+font: 12px tahoma;
+letter-spacing: 0px;
+-webkit-transition-duration: 0.9s;
+padding-left: 5px;
+text-transform: none uppercase;
+TEXT-DECORATION: none;
+cursor: hand;}
+
+HR{
+border: 0px solid #db7093;
+}
+
+
+/* ............... REF AO TiTULO - FIXO .............. */
+
+.titulo {
+border-bottom: 0px dotted  #eedfcc; font-weight: normal; font-size: 25px; color: #e9967a;
+}
+
+body
+{
+background-attachment: fixed
+}
+
+
+/* ............. REF BARRAS DO TOP ............. */
+
+#barra {
+height: 50px;
+color:  ;
+background: url("http://img210.imageshack.us/img210/3508/catstky.jpg") ;
+width: 100%;
+align:center;
+border-top: 0px outset ;}
+
+#barra .tubo {
+text-align:center;
+background:("http://img210.imageshack.us/img210/3508/catstky.jpg");
+margin: 0 auto; padding:10;
+width: 100%;
+border-top: 0px outset ;
+border-bottom: 1px solid none;
+background:url("http://img210.imageshack.us/img210/3508/catstky.jpg");margin: 0 auto; padding:0;width: 100%;}
+
+
+#barra {margin: 0; padding:0;width: 100%; height: 50px;background:fff0f5; background:urlz("http://img210.imageshack.us/img210/3508/catstky.jpg");text-align: center;}
+
+
+#barra .fvbarraf {
+width: 50px;
+height: 20px;
+background: #ee9572;
+color:  #fffafa
+}
+
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active {
+color:#DEBADE;
+text-align: center;
+padding: 0px;
+text-decoration: none;
+background-color:}
+
+#barra .fvbarra a:hover {
+color:   #FDE8FD;
+text-align: center;
+padding: 0px;
+text-decoration: none;
+background-color:}
+
+
+#barra .barraimg {
+opacity:.0;}
+
+/*............ REF. AO POST............*/
+.post {
+color: #B04A4A;
+border-top: 20px solid #d8bfd8; border-bottom: 5px solid #d8bfd8; border-left: 5px solid #d8bfd8; border-right: 5px solid #d8bfd8;
+text-align: center; font-family: tahoma;
+background: url("http://img210.imageshack.us/img210/3508/catstky.jpg");;
+width: 450px;
+font-size: 10px;
+border-radius: 1px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;}
+
+/* ............ REF. OPACIDADE NAS IMAGENS............ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+
+*/
+
+a img {
+filter:alpha gray(opacity=85);
+-moz-opacity: 0.90;
+opacity: 0.90;
+border: 0px outset #F99596;
+border-radius: 2px;
+-moz-border-radius: 2px;
+padding: 1px;
+margin: 2px;
+}
+
+
+a:hover img {
+filter:alpha gray(opacity=100);
+-moz-opacity: 1.0;
+opacity: 1.0;
+border: 0px outset #F99596;
+-moz-border-radius: 2px;
+padding: 1px;
+margin: 2px;
+}
+
+a img {
+filter:alpha (opacity=65);
+-moz-opacity:0.90;
+opacity:0.80;
+}
+
+a:hover img {
+filter:alpha gray (opacity=100);
+-moz-opacity:0.90;
+opacity:0.90;
+}
+
+a img {
+border-left: 2px solid transparent;
+border-right: 2px solid transparent;
+border-top: 2px solid transparent;
+border-bottom: 2px solid transparent;
+border-radius: 2px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px;
+background-image: url("imagem aqui");
+padding: 0px;
+margin: 0px;
+}
+
+a:hover img {
+border-left: 2px solid transparent;
+border-right: 2px solid transparent;
+border-top: 2px solid transparent;
+border-bottom: 2px solid transparent;
+border-radius: 2px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px;
+background-image: url("mesma imagem aqui");
+padding: 0px;
+margin: 0px;
+}
+
+/* ---------------- REF AO RODape? ------------- */
+
+#footer {
+background-position: bottom;
+width: 1020px;
+height:3px;
+clear: both;
+text-align: center;
+background: url("");
+}
+
+
+
+/* ............. REF CAIXA COMENTARIO - CSS ............ */
+
+input, textarea, select
+{font-family:tahoma;
+font-size: 12px;
+color: #cd5c5c;
+width:98%;
+align:center;
+text-align: center; 
+background-color: ;
+background-image : url("http://img848.imageshack.us/img848/9045/fundobc.jpg");
+}
+
+/*............ REF CAIXA COMENTaRIO DOS AMIGOS .........*/
+
+.cmttext {
+align:center;
+text-align: center; 
+font-family:tahoma;
+font-size:12px;
+font-weight: normal;
+background-color: ;
+background-image : url("http://img210.imageshack.us/img210/3508/catstky.jpg");
+padding: 0px;
+}
+
+/*............. REF CAIXA EXTERNA - ACOLHEDORA ...........*/
+
+.comentarios {
+
+width:400px;
+align:center; 
+text-align: center; 
+padding:1px;
+color: #696969;
+-moz-border-radius: 4px 4px 4px 4px;
+background-color: #cd8162;
+background-image : url("http://img210.imageshack.us/img210/3508/catstky.jpg");
+}
+
+/* ............. REF TABELA ............. */
+
+
+.post {
+color: #bc8f8f;
+border-top: 20px solid #d8bfd8; border-bottom: 10px solid   #db7093 ;
+}
