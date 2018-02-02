@@ -1,0 +1,241 @@
+/*..........REF. IMAGEM DO FUNDO DO POST - LATERAIS ...........*/
+
+
+html {
+background: url("http://i45.tinypic.com/1zn0sgx.jpg");
+border-top: 0px solid #fff0f5
+margin-top: 0px;
+cursor: hand;}
+
+
+
+/* .......... REF IMAGEM DO FUNDO - CENTRAL ........... */
+
+body {
+margin: auto;
+width:1300px;
+body-align: center;
+background: #ffffff;
+border-left: 0px solid ;
+border-right: 0px solid ;}
+
+
+/* ............. REF A FONTE DO FLOG ................*/
+p, a, body, td, tr, div {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 12px;
+	color: #ffc1c1;
+	cursor: hand;
+	font-family: tahoma;
+	line-height: 12px;
+}
+
+
+/* ....... REF AOS LINKS - IMAGENS E BORDAS ....... */
+
+a, a:link, a:visited, a:active{
+color:#b3ee3a;
+font: 12px tahoma;
+letter-spacing: 0px;
+-webkit-transition-duration: 0.9s;
+text-transform: none uppercase;
+TEXT-DECORATION: none;
+cursor: hand;}
+
+a:hover {
+color: #eeaeee;   
+background: #ffffff url("") no-repeat   ;
+border-bottom: 0px dashed none;
+font: 13px tahoma;
+letter-spacing: 0px;
+-webkit-transition-duration: 0.9s;
+padding-left: 6px;
+text-transform: none uppercase;
+TEXT-DECORATION: none;
+cursor: hand;}
+
+HR{
+border: 0px solid  #D789A8;
+}
+
+
+/* ............... REF AO TiTULO - FIXO .............. */
+
+.titulo {
+border-bottom: 0px dotted  #FB607F; font-weight: normal; font-size: 20px; color:#ffbbff;
+}
+
+body
+{
+background-attachment: fixed
+}
+
+
+/* ............. REF BARRAS DO TOP ............. */
+
+#barra {
+height: 90px;
+color: #c0ff3e;
+background: #ffffff url("") ;
+width: 80%;
+align:center;
+border-top: 0px outset ;}
+
+#barra .tubo {
+text-align:center;
+background:  #ffa07a ("");
+margin: 0 auto; padding: 0;
+width: 80%;
+border-top: 0px outset ;
+border-bottom: 0px solid none;
+background: #eed2ee url("");margin: 0 auto; padding:0;width: 100%;}
+
+
+#barra {margin: 1; padding:50 ;width: 100%; height: 50px;background:#eed2ee ; background:#eed2ee url("");text-align: center;}
+
+
+#barra .fvbarraf {
+width: 50px;
+height: 50px;
+background: #ffffff;
+color:  #eeaeee
+}
+
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active {
+color:#c0ff3e ;
+text-align: center;
+padding: 0px;
+text-decoration: none;
+background-color:}
+
+#barra .fvbarra a:hover {
+color: #b0e2ff;
+text-align: center;
+padding: 0px;
+text-decoration: none;
+background-color:}
+
+
+#barra .barraimg {
+opacity:.0;}
+
+/*............ REF. AO POST............*/
+.linha {
+border-bottom: 0px solid #ffe4e1;
+}
+
+
+.table1 {
+	font-size: 12px;
+	font-family: tahoma;
+	text-align: justify;
+        width: 460px;
+	padding: 5px;
+border-right: 0px dashed #68DE31;
+border-left: 0px dashed #68DE31;
+border-top: 0px dashed #68DE31;
+border-bottom: 0px dashed #68DE31;
+background:#f8f8ff;
+-moz-border-radius: 0px 0px 0px 0px;
+}
+
+.table2 {
+	color: #EDA1E5;
+	font-size: 12px;
+	font-family: tahoma;
+	text-align: justify;
+        width: 300px;
+	padding: 2px;
+border-right: 0px solid #E1E1AF;
+border-left: 0px solid #E1E1AF;
+border-top: 0px solid #E1E1AF;
+border-bottom: 0px solid #E1E1AF;
+background:   #ffffff;
+-moz-border-radius: 0px 0px 0px 0px;
+}
+
+
+/* ............ REF. OPACIDADE NAS IMAGENS............ */
+img{
+   -webkit-transition: opacity 0.7s linear;
+   opacity: 1;
+   -webkit-transition: all 0.3s ease-out;
+   -moz-transition: all 0.3s ease-out;
+   -webkit-border-radius: 5px;
+   transition: all 0.3s ease-out;}
+  
+img:hover{
+   -webkit-transition: opacity 0.5s linear;
+   opacity: 0.6;
+   -webkit-transition: all 0.3s ease-out;
+   -moz-transition: all 0.3s ease-out;
+   -webkit-border-radius: 5px;
+   transition: all 0.3s ease-out;}
+
+/* ---------------- REF AO RODape? ------------- */
+
+#footer {
+background-position: bottom;
+width: 1300px;
+height:40px;
+clear: both;
+text-align: center;
+background:  #ee7ae9 url("");
+}
+
+
+/* ............. REF CAIXA COMENTARIO - CSS ............ */
+
+input, textarea {
+	color:  #8b7e66;
+	font-family: tahoma;
+	text-align: center;
+	font-size: 12px;
+	background-color: #ffffff;
+        border-bottom:1px dashed  #b3ee3a;
+        border-right:1px dashed #b3ee3a;
+        border-top:1px dashed   #b3ee3a;
+
+	-moz-border-radius: 0px 0px 0px 0px;
+background-image : url("");
+
+}
+
+/*............ REF CAIXA COMENTaRIO DOS AMIGOS .........*/
+
+.cmttext {
+align:center;
+text-align: center; 
+font-family:tahoma;
+font-size:12px;
+font-weight: normal;
+background-color: #ffffff;
+background-image : url("");
+padding: 0px;
+}
+
+/*............. REF CAIXA EXTERNA - ACOLHEDORA ...........*/
+
+.comentarios {
+
+font-family: tahoma; 
+        color: #ffaeb9;
+        background-color:#fdf5e6;
+        border: 0px solid #F2FFB3;
+	font-size: 12px; 
+        padding: 5px;
+	-moz-border-radius: 6px 6px 6px 6px;
+         width: 340px;
+        }
+
+
+
+p {margin:0px; margin-top:6px;}
+a {text-decoration: none; color: #; -webkit-transition: all 0.5s ease-out; -moz-transition: all 0.5s ease-out; transition: all 0.5s ease-out;}
+a:hover{ text-decoration: none; color: #; -webkit-transition: all 0.1s ease-out; -moz-transition: all 0.1s ease-out; transition: all 0.1s ease-out;}
+a:active{outline: none;}
+a:focus{-moz-outline-style: none;}
+:-moz-any-link:focus{outline: none;}
+b{font-weight: bold;}
