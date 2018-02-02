@@ -1,0 +1,271 @@
+.titulo {
+color: #805c39;
+font-family: georgia;
+font-weight: bold;
+font-style: bold;
+letter-spacing: 1px; 
+font-size: 16px;
+padding: 1px;
+text-transform: uppercase;
+background-color: #transparent;
+}
+
+.subtitulo {http://noadsbiz.freewebhostingarea.com/ftp/index.php
+color: #3C3129;
+font-size: 11px;
+line-height: 11px;
+background-color: #transparent;
+border-bottom: none;
+border-right: none;
+border-top: none;
+border-left: none;
+padding: 3px 3px 3px 3px;
+-moz-border-radius: 0px 0px 0px 0px;
+width: 90px;
+letter-spacing: 1px;
+}
+body {
+width: 800px;
+body-align: center;
+background-color: #d0bdaf;
+margin: 0 auto;
+cursor: defaut ;
+-moz-border-radius: 10px;
+border: 0px solid #d0bdaf;
+}
+html { background: #e0cdbb url("http://static.tumblr.com/y2cy4ou/9Allo6uju/etv__5_.png");
+-moz-border-radius: 10px; align: center; }
+/* -- fonte e link -- */
+
+P, body, td, tr, div {
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+color: #999999;
+font-family: Verdana;
+cursor: crosshair;
+line-height: 11px;
+}
+
+a, a:link{
+	color: #ad977c;
+	TEXT-DECORATION: none;}
+
+a:hover {
+	color: #ad977c;
+	TEXT-DECORATION: none;}
+}
+
+/* -- tags -- */
+
+	u {color: #9f7e58; TEXT-DECORATION: none;}
+	n {color: #d0bdaf; TEXT-DECORATION: none;}
+        s {color: #ffb86b; TEXT-DECORATION: none;}
+        b {color: #9DC2D9; TEXT-DECORATION: none;}
+	strong {color: #978572; line-height: 14px; font-weight: normal; letter-spacing: 2px; }
+
+
+/* -- opacidade de imagens -- */
+
+a img {
+filter:alpha(opacity=50); 
+-moz-opacity:0.90; 
+opacity:0.90;
+}
+
+a:hover img {
+filter:alpha(opacity=90); 
+-moz-opacity:1.0; 
+opacity:1.0;
+}
+
+/* -- tabelas -- */
+
+.table1 {
+	font: 11px verdana;
+	font-weight: normal;
+	text-align: justify;
+	text-transform: normal;
+	letter-spacing: 0px;
+	color: #473412;
+        width: 430px;  
+        background-color: #d0bdaf;
+        border-left: 7px solid #ffe670;
+        border-top: 0px solid #8C766B;
+        border-right: transparent;
+        border-bottom: transparent; 
+}
+.table2 {
+        font: 11px verdana;
+	font-weight: normal;
+	text-align: justify;
+	text-transform: normal;
+	letter-spacing: 0px;
+	color: #9999A7; 
+        width: 420px; 
+        background-color: #e5d8c7;        
+        border-left: 3px solid #e5d8c7;
+        border-top: 3px solid #e5d8c7;
+        border-right: 3px solid #e5d8c7;
+        border-bottom: 3px solid #e5d8c7;
+}
+.table3 {
+        font: 12px verdana;
+	font-weight:normal;
+        font-style: normal;
+	text-align: center;
+	text-transform: normal;
+	letter-spacing: 0px;
+	color: #4B3E32; 
+        width: 480px; 
+        background-color: #2C241E;        
+        border-left: 2px solid transparent;
+        border-top: 2px solid transparent;
+        border-right: transparent;
+        border-bottom: transparent;
+}
+.table4 {
+        font: 15px terminal;
+	font-weight:normal;
+        font-style: normal;
+	text-align: normal;
+	text-transform: normal;
+	letter-spacing: 0px;
+	color: #9999A7; 
+        width: 390px; 
+        background-color: transparent;        
+        border-left: transparent;
+        border-top: transparent;
+        border-right: transparent;
+        border-bottom: transparent;
+}
+.tab2 {
+        font: 11px verdana;
+	font-weight: normal;
+	text-align: justify;
+	text-transform: normal;
+	letter-spacing: 0px;
+	color: #4B3E32; 
+        width: 500px; 
+        background-color: #2C241E;        
+        border-left: transparent;
+        border-top: transparent;
+        border-right: 0px solid #452f1f;
+        border-bottom: 0px solid #452f1f;
+}
+
+.tab3 {
+ font: 11px verdana;
+	font-weight: normal;
+	text-align: center;
+	text-transform: normal;
+	letter-spacing: 0px;
+	color: #ac8f6f;
+        width: 420px; 
+        background-color: #dbcaad;        
+        border-left: 0px solid #ffe670;
+        border-top: 3px solid #ffffff;
+        border-right: 0px solid #452f1f;
+        border-bottom: 3px solid #dbcaad;
+}
+
+/* -- comentários -- */
+
+input, textarea, select {
+	color: #c7b697;
+        background-color: #d0bdaf;
+	font-size: 11px;
+	padding: 1px;
+	font-family: verdana;
+	line-height: 11px;
+	border: 1px dashed #dbcaad;}
+
+.comentarios {
+font-family: verdana;
+font-size: 11px;
+padding: 5px;
+color: #675539;
+border: none;
+-moz-border-radius: 5px 5px 5px 5px;
+background-color: #d0bdaf;
+width: 340px;
+} 
+
+
+/* -- seleção colorida -- */
+
+::-moz-selection{
+background: #d0bdaf;
+color: #9DC2D9;
+}
+
+::selection{
+background: #d0bdaf;
+color: #9DC2D9;
+}
+
+/* -- barra -- */
+#barra {
+align: center;
+margin: auto;
+width: 100%;
+height: 41px;
+background: transparent;
+border-top: 0px solid #decdb5;
+border-bottom: 0px solid #9DC2D9;
+}
+
+#barra .tubo {
+text-align: center;
+background: #dbcaad ; 
+width: 100%;
+border-top: 0px solid #decdb5;
+height: 36px;
+-moz-border-radius: 0px 0px 3px 3px;
+padding: 10;
+width: 100%}
+
+#barra .fvbarraf {
+width: 100px;
+height: 15px;
+background: #dbcaad;
+font: normal 11px Verdana; 
+color: #b09c83; 
+border: 0px dashed #b9a48c;
+}
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra 
+
+a:active  {
+color: #b9a48c;
+font-family: verdana;
+font-size: 11px;
+line-height: 15px;
+padding: 2px 2px 2px 2px;
+text-transform: capitalize;
+text-align: center;
+text-decoration: none; 
+background-color: #d0bdaf;
+border: 0px solid; #d0bdaf;
+letter-spacing: 1px;}
+
+#barra .fvbarra a:hover {
+color: #b9a48c;
+font-family: verdana;
+font-size: 11px;
+line-height: 10px;
+text-align: center
+text-transform: capitalize;
+padding: 3px;
+text-decoration: none; 
+background-color: #d0bdaf;
+border: 0px solid #d0bdaf;
+letter-spacing: 1px;}
+
+#barra .fvbarra {
+font: normal 11px Verdana;
+color: #dbcaad; 
+}
+
+#barra .barraimg {
+opacity:.0;}
