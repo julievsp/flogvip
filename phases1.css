@@ -1,0 +1,139 @@
+Ilove.css Não remova !!
+
+
+
+
+
+
+#footer {background: #;
+color: #fbc0ce; 
+width: 860px; 
+font-family:courier new;
+margin-top: 15px; margin-bottom: 20px; 
+text-transform:uppercase;
+font-size:10px;
+-moz-border-radius: 0px 0px 7px 7px; -o-border-radius: 0px 0px 7px 7px; border-radius: 0px 0px 7px 7px;}
+
+/* -- Fonte -- */
+p, a, body, td, tr, div {
+	font-style: normal; 
+	font-weight: normal;
+	font-size: 11px;
+	color: #797979;
+	font-family : verdana;
+	line-height: 12px;
+	cursor: crosshair;
+}
+
+/* -- Link -- */
+
+a, a:link{
+color: #eda6c3;
+font-family : 'verdana', serif;
+font-size: 10px;
+-webkit-transition-duration: 0.9s;
+background-color : #3d3d3d;
+border-bottom: 1px dotted none; 
+cursor: crosshair;
+TEXT-DECORATION: none;
+}
+a:hover {
+color: #eda6c3;
+font-family : 'verdana', serif;
+font-size: 10px;
+-moz-transition:0.9s linear;
+background-color : #f0ebf6;
+border-bottom: 1px dotted none; 
+cursor: crosshair;
+TEXT-DECORATION: none;
+}
+
+input, textarea, select  
+{font-family: Tahoma;  
+font-size: 11px; 
+line-height:12px;
+padding: 5px;
+color: #fbc0ce; 
+border: none; 
+background-color: #3d3d3d;  
+}
+.comentarios {
+font-family: verdana;
+text-align: center; 
+font-size: 11px; 
+padding: 5px;
+color: #eda6c3;
+moz-border-radius: 1px 1px 1px 1px;
+background-color: #3d3d3d;
+width: 380px;
+        }
+.fundopost {
+color: #fbc0ce;
+font-family: verdana;
+line-height: 13px;
+font-size: 11px;
+background-color: #3d3d3d;
+width: 480px;
+padding: 5px; 
+text-align: justify;
+border: none;
+}
+
+* -- Tabs -- */
+.table2 { background-color: #3d3d3d;
+background-image: url();
+	text-align: justify;
+font-family : verdana;
+padding: 13px;
+color: #eda6c3;
+             width: 490px;
+        text-shadow: 1px 1px none;
+}
+
+.table3 { background-color: #3d3d3d;
+	border-top: 1px dotted none;
+        border-bottom: 1px solid none;
+	text-align: justify;
+color: none;
+font-family : verdana;
+font-size: 11px;
+             width: 450px;
+}
+
+.table4 { background-color: #716d6d;
+background-image: url('');
+	text-align: center;
+color: #eda6c3;
+font-family : verdana;
+padding: 4px;
+font-size: 11px;
+             width: 310px;
+ float:left; 
+        width:107px;  
+        hspace:0px
+}
+
+.table5 { background-color: #716d6d;
+	border-bottom: 1px solid none;
+border-right: 1px solid none;
+border-top: 1px dotted #none;
+border-left: 1px solid #none;
+	text-align: justify;
+	padding : 10px;
+	color: #none;
+             width: 500px;
+-moz-border-radius: 7px 7px 7px 7px; -o-border-radius: 7px 7px 7px 7px; border-radius: 7px 7px 7px 7px;
+       }
+
+#barra { background: #3d3d3d; margin: 0 auto; padding: -15px -10px -15px -10px;border-bottom: 3px solid #716e6e;; width: 850px; height: 70px; margin-top: 0px; -moz-border-radius: 6px 6px 0px 0px; -o-border-radius: 6px 6px 0px 0px; border-radius: 6px 6px 0px 0px;}
+
+#barra .tubo {background: #3d3d3d ;margin: 0 auto; padding: -15px -10px -15px -10px;border-bottom: 3px solid #716e6e ; width: 850px; height: 70px; margin-top: 0x; -moz-border-radius: 6px 6px 0px 0px; -o-border-radius: 6px 6px 0px 0px; border-radius: 6px 6px 0px 0px;}
+
+#barra .fvbarraf {margin: 0;padding:2px;width: 100px;height: 12px; background: #dcb5bb;border: #716e6e 0px dashed;font:11px Verdana; color:#f8f1f1;}
+
+#barra .fvbarra a:link, #barra .fvbarra a:visited, #barra .fvbarra a:active {text-transform: uppercase;font: 11px courier new; color:#f4649e;text-decoration: none;margin: 0px;position: relative; top:auto; left:auto; padding: 8px; background-color: #6e6b6b; -webkit-transition-duration: 1.0s; -webkit-border-radius: 2px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px;}
+
+#barra .fvbarra a:hover { color: #fcc6dc;border-bottom: 0px;text-decoration: none;cursor: pointer;position: relative; top:auto; left:auto;background-image:none;padding: 5px; background-color: #3d3d3d; -webkit-transition-duration: 1.0s; -webkit-border-radius: 2px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px;}
+
+#barra .fvbarra {font: normal 11px Verdana; color: transparent;} #barra .barraimg {opacity: 0;} 0px;text-decoration: none;cursor: pointer;position: relative; top:auto; left:auto;background-image:none;padding: 8px;} #barra .fvbarra {font: normal 11px Verdana; color: transparent;} #barra .barraimg {opacity: 0;}
+
