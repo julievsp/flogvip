@@ -1,4 +1,4 @@
-body {body-align: right; width: 1050px;   margin: auto;}
+body {body-align: right; width: 3050px;   margin: auto;}
 html  	{background: #e5ddd8; border: 0px solid #e5ddd8;}
 p, a, body, td, tr, div {color: #efeae7;}
 body {background: url() #efeae7; 
@@ -66,7 +66,7 @@ background:#e5ddd8;
 margin: 0 auto; 
 padding:0px;
 height: 10px;
-width: 100%;}
+width: 1000%;}
 
 #barra .fvbarraf {
 width: 100px;
