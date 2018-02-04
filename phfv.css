@@ -1,25 +1,25 @@
-body {body-align: right; width: 3050px;   margin: auto;}
-html  	{background: #e5ddd8; border: 0px solid #e5ddd8;}
+body {body-align: right; width: 825px;   margin: auto;}
+html  	{background: #efeeed; border: 0px solid #e5ddd8;}
 p, a, body, td, tr, div {color: #efeae7;}
-body {background: url() #efeae7; 
+body {background: url(http://i67.tinypic.com/15danet.jpg) #efeeed; 
  }
    
 p, a, body, td, tr, div {
 font-style: normal;
 font-weight: normal;
 font-size: 11px;
-color: #7c6c63;
+color: #390214;
 font-family: verdana;
 }
 
 
-a, a:link{color: #7c7c7d; cursor: w-resize;
+a, a:link{color: #7f3d16; cursor: w-resize; letter-spacing: 0px;
 TEXT-DECORATION: none; font-weight: ;}
 
-a:hover {color: #5f5f5f; cursor: w-resize;
+a:hover {color: #7f3d16; cursor: w-resize;
 TEXT-DECORATION: none; font-weight: ; cursor: Pointer;
 background-color: #;
-border-bottom: 0px dashed #f1e3d2;
+border-bottom: 0px dashed #f1e3d2; letter-spacing: 1px;
 }
 
 
@@ -31,12 +31,12 @@ input, textarea, select
 	{font-family: Verdana; 
 	font-size: 11px;
 	cursor: size;
-	color: #7c6c63;
+	color: #390214;
         border-bottom: 0px solid #c9c9c9;
         border-top: 0px solid #c9c9c9;
         border-right: 0px solid #c9c9c9;
         border-left: 0px solid #c9c9c9;
-	background-color: #efeae7;
+	background-color: #efeeed;
         -moz-border-radius: px;
         line-height:12px;
         padding: 5px;
@@ -56,34 +56,35 @@ background: #efeae7;}
 #barra {
 height: 100px;
 font-size: 10px; 
-color:#f9e1ef;
-background: #e5ddd8;
+color:#7f3d16;
+background: #efeeed;
 }
 
 #barra .tubo {
 text-align:center;
-background:#e5ddd8;
+background:#efeeed;
 margin: 0 auto; 
 padding:0px;
 height: 10px;
-width: 1000%;}
+width: 100%;}
 
 #barra .fvbarraf {
 width: 100px;
 height: 10px;
-font-family: Droid Serif;
+font-family: georgia;
 font-size: 10px; 
-color:#333333;
+color:#390214;
 text-decoration: bold;
 text-transform: Uppercase; 
 -moz-border-radius: 0px 0px 0px 0px;
-background-color: #efeae7;
-border: 1px dotted #453a3a;
+background-color: #efeeed;
+border: 0px dotted #453a3a;
+letter-spacing: 0px;
 }
 
 #barra .fvbarra a:link, #barra .fvbarra a:visited , #barra .fvbarra a:active  {
-color: #d3c3b9;
-font-family: Droid Serif;
+color: #390214;
+font-family: georgia;
 font-size: 10px;
 line-height: 45px;
 text-align:center;
@@ -92,14 +93,15 @@ padding: 11px;
 height: 70px;
 text-decoration: none; 
 -moz-border-radius: 0px 0px 0px 0px;
-background-color: #7c6c63;
+background-color: #efeeed;
 transition: all 0.5s ease-out;
+letter-spacing: 0px;
 }
 
 #barra .fvbarra a:hover {
-color: #d3c3b9;
+color: #390214;
 cursor: Pointer;
-font-family: Droid Serif;
+font-family: georgia;
 font-size: 10px;
 line-height: 45px;
 height: 70px;
@@ -108,25 +110,26 @@ text-align:left;
 padding: 11px;
 text-transform: uppercase;
 text-decoration: ; 
-background-color: #8b7b72;
+background-color: #efeeed;
+letter-spacing: 1px;
 }
 
 
 #barra .fvbarra {
-font: bold 10px Droid Serif;
+font: bold 10px georgia;
 text-decoration: bold; 
 text-transform: Uppercase;
 height: 70px;
-color: #e5ddd8; 
+color: #390214; 
 }
 
 #barra .barraimg {
 opacity:.0;}
  
         
-#footer {color: #7c6c63;
+#footer {color: #7f3d16;
 font: 11px verdana; 
-background: #dbcfc8;
+background: #efeeed;
 border-top: 0px dashed #91b3af;
 -moz-border-radius: 0px;
 line-height: 14px;
@@ -137,7 +140,7 @@ cursor: text;}
 /*--------Post by -------*/
 
 .fundopost{
-background: #e9e3df url() bottom repeat;
+background: #efeeed url() bottom repeat;
 border-bottom: 6px solid #ded4ce;
 border-top: 6px solid #ded4ce;
 border-right: 1px solid #ded4ce;
@@ -156,7 +159,7 @@ float: left;
 margin: 0;
 text-align: center;
 font-family: arial, georgia;
-background: #efeae7;
+background: #efeeed;
 border-bottom: 1px solid #dbcec6;
 border-top: 1px solid #dbcec6;
 border-right: 1px solid #dbcec6;
@@ -172,7 +175,7 @@ float: right;
 margin: 0;
 text-align: center;
 font-family: arial, georgia;
-background: #efeae7;
+background: #efeeed;
 border-bottom: 0px solid #201b21;
 border-top: 0px solid #201b21;
 border-right: 4px solid #7c7c7d;
@@ -184,10 +187,10 @@ border-left: 0px solid #201b21;
 .table {
 font-family: verdana;
 line-height: 13px;
-color: #7c6c63;
+color: #7f3d16;
 font-size: 11px;
 border-bottom: 2px solid #d6cac3;
-background-color: #efeae7;
+background-color: #efeeed;
 padding: 3px;
 -moz-border-radius: 0px 0px 0px 0px;
 width: 400px;}
@@ -207,11 +210,11 @@ text-align:center;
 clear: both;
 line-height:18px;}
 #footlink a:link, #footlink a:visited, #footlink a:active {
-color: #7c6c63;
+color: #7f3d16;
 font-size : 7pt;
 padding: 5px 4px 3px 4px;
 text-transform: uppercase;
-background-color: #efeae7;
+background-color: #efeeed;
 -moz-border-radius: 1px;
 border-top: 4px solid #e1d6cf;
 border-left: 1px solid #e1d6cf;
@@ -219,11 +222,11 @@ border-right: 1px solid #e1d6cf;
 border-bottom: 4px solid #e1d6cf;}
 
 #footlink a:hover {
-color: #7c7c7d;
+color: #390214;
 font-size : 7pt;
 padding: 3px 4px 3px 4px;
 text-transform: uppercase;
-background-color: #efeae7;
+background-color: #efeeed;
 -moz-border-radius: 1px;
 border-top: 7px solid #e1d6cf;
 border-right: 1px solid #e1d6cf;
